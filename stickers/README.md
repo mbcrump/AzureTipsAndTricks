@@ -28,6 +28,8 @@ You can also find me on Twitter:
 [@mbcrump](https://twitter.com/mbcrump)
 
 ## Collage
+<img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/lightbulb.png" alt="drawing"  height="350" />
+<img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/seattle.png" alt="drawing" height="350"/>
 
-![Lightbulb](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/lightbulb.png)
-![Seattle](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/seattle.png)
+* [Download Lightbulb](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-lightbulb.eps)
+* [Download Seattle Skyline](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-seattle.eps)
