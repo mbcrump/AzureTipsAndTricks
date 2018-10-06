@@ -29,4 +29,5 @@ You can also find me on Twitter:
 
 ## Collage
 
-![preview](https://github.com/mbcrump/azuretipsandtricks/blob/master/collage.jpg)
+![Lightbulb](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/lightbulb.png)
+![Seattle](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/seattle.png)
