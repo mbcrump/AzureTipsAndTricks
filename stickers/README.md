@@ -28,8 +28,10 @@ You can also find me on Twitter:
 [@mbcrump](https://twitter.com/mbcrump)
 
 ## Collage
-<img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/lightbulb.png" alt="drawing"  height="350" />
-<img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/seattle.png" alt="drawing" height="350"/>
+
+**NOTE :** The bleed line shown in the images below is for the printer. It will not appear in the printed stickers. 
+
+<img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/lightbulb.png" alt="drawing"  height="350" /> <img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/seattle.png" alt="drawing" height="350"/>
 
 * [Download Lightbulb](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-lightbulb.eps)
 * [Download Seattle Skyline](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-seattle.eps)
