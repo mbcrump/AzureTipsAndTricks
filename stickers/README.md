@@ -35,3 +35,8 @@ You can also find me on Twitter:
 
 * [Download Lightbulb](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-lightbulb.eps)
 * [Download Seattle Skyline](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-seattle.eps)
+
+<img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/vintage.png" alt="drawing"  height="350" /> <img src="https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/preview/8bit.png" alt="drawing" height="350"/>
+
+* [Download Vintage](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-circle-vintage.eps)
+* [Download 8-bit](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-rounded-boggle.eps)
