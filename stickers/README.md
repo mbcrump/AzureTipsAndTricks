@@ -17,10 +17,6 @@ The application used to create all of the images was Adobe Illustrator. After cr
 * [Cecil Phillip](https://twitter.com/cecilphillip)
 * [Brady Gaster](https://twitter.com/bradygaster)
 
-## Legal
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 ## Find me
 
 You can also find me on Twitter: 
@@ -46,3 +42,6 @@ You can also find me on Twitter:
 * [Download Shark](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-rounded-shark-laser-eyes.eps)
 * [Download Boggle](https://github.com/mbcrump/AzureTipsAndTricks/blob/master/stickers/2x2-rounded-boggle.eps)
 
+## Legal
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
