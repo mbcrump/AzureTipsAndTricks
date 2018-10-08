@@ -16,6 +16,7 @@ The application used to create all of the images was Adobe Illustrator. After cr
 
 * [Cecil Phillip](https://twitter.com/cecilphillip)
 * [Brady Gaster](https://twitter.com/bradygaster)
+* [Red Door Collaborative](http://www.reddoorcollaborative.com/) - (Chris, Forrest, Pablo and Gina)
 
 ## Find me
 
